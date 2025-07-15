@@ -22,3 +22,4 @@ This project uses [Terraform](https://www.terraform.io/) to provision an [Azure 
 5. Apply the configuration: `terraform apply`
 
 Refer to the source files for configuration details and customization options.
+
